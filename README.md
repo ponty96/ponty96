@@ -5,7 +5,7 @@ I am currently work as a Senior Software Engineer at [Community](https://communi
 
 I'm exploring SRE, and documenting my journey, and life lessons [here](https://ponty.me).
 
-I'm looking to collaborate on Go projects, in the SRE community or review unpublished technical books.
+I'm looking to collaborate on Go/Rust projects, in the SRE community or review unpublished technical books.
 
 If you're in the early days of your career in tech, you can reach me through any of my social media handles.
 
